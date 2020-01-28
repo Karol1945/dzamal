@@ -1,2 +1,3 @@
 linia 1 w plik3
 linia 2 w plik3
+linia 3 w plik3
